@@ -4,11 +4,11 @@
 4. Color
 5. Month
 6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+7. birds
+8. apples
+9. elephant
+10. bedroom
+11. water
 12. Adjective
 13. Material
 14. Activity
