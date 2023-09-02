@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. Friend's Name:Loney
+2. Adjective:Tall
+3. Adjective:beautiful
+4. Color:yellow
+5. Month:July
+6. Number: 10
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
