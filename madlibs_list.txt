@@ -14,8 +14,8 @@
 14. Activity: Skydiving
 15. Adverb: Eternally
 16. Number: 4
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. Unit of Time: hours
+18. Different Activity: swimming
+19. Adjective: old
+20. Vehicle: car
+21. Your Name: Sriram
