@@ -10,7 +10,7 @@
 10. bedroom
 11. water
 12. Adjective: Tranquil
-13. Material: Diamond
+13. Material: Fur
 14. Activity: Skydiving
 15. Adverb: Eternally
 16. Number: 4
