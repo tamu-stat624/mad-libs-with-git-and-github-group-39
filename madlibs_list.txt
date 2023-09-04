@@ -9,11 +9,11 @@
 9. elephant
 10. bedroom
 11. water
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+12. Adjective: Tranquil
+13. Material: Diamond
+14. Activity: Skydiving
+15. Adverb: Eternally
+16. Number: 4
 17. Unit of Time
 18. Different Activity
 19. Adjective
